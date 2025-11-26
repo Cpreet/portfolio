@@ -18,6 +18,7 @@ export const SITE_CONFIG = {
 // Navigation links
 export const NAV_LINKS = [
   { href: '/', label: 'Home' },
+  { href: '/workflow', label: 'Workflow' },
   { href: '/services', label: 'Services' },
   { href: '/work', label: 'Work' },
   { href: '/about', label: 'About' },
