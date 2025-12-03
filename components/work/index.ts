@@ -1,3 +1,6 @@
 export { CaseStudyCard } from './CaseStudyCard'
 export { CaseStudyHero } from './CaseStudyHero'
-
+export { ProjectCard } from './ProjectCard'
+export { WorkCTA } from './WorkCTA'
+export { ProjectHero } from './ProjectHero'
+export { GenerateImageButton } from './GenerateImageButton'

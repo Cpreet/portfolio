@@ -5,8 +5,8 @@ export const SITE_CONFIG = {
   name: 'Charanpreet Singh Chawla',
   title: 'AI-Driven Web Developer & Product Builder',
   description: 'I build high-impact web products 3x faster using AI tooling. React, Next.js, and product strategy for startups and agencies.',
-  url: 'https://charanpreet.dev', // Update with your actual domain
-  email: 'hello@charanpreet.dev', // Update with your actual email
+  url: 'https://charanpreet.me', // Update with your actual domain
+  email: 'hello@charanpreet.me', // Update with your actual email
   // Social links - update with your actual profiles
   social: {
     twitter: 'https://twitter.com/charanpreet',

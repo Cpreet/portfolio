@@ -100,7 +100,7 @@ export function ClientReviewConsole() {
             </div>
             <div className="flex-1 mx-4">
               <div className="max-w-md mx-auto px-4 py-1.5 rounded-lg bg-bg-secondary text-xs text-text-muted text-center">
-                review.charanpreet.dev/project/dashboard
+                review.charanpreet.me/project/dashboard
               </div>
             </div>
           </div>
